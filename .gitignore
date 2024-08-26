@@ -1,0 +1,4 @@
+ # E-commerce-Site-Node
+node_modules/
+.env
+.DS_Store
